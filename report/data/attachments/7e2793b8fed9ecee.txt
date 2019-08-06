@@ -1,0 +1,1 @@
+{'self': <WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page object at 0x000000DEAC0FD160>, 'key_word': '中国网安123456', 'TC_title': '测试中文和数字混杂'}

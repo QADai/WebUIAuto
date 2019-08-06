@@ -1,0 +1,251 @@
+{
+  "5c180bf368da45d989ddaaeddaf5f07c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72859bd00fdaf9ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100893939,
+        "stop" : 1565100900791,
+        "duration" : 6852
+      }
+    } ]
+  },
+  "ffb420110473e02e61ebf14d7292ad02" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "965d468f80a4384b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 百度地图1的值不在百度地图中",
+      "time" : {
+        "start" : 1565100926175,
+        "stop" : 1565100934807,
+        "duration" : 8632
+      }
+    } ]
+  },
+  "429aa74bd108af56dc623f6144adb773" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e574c874552df0fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100906983,
+        "stop" : 1565100913039,
+        "duration" : 6056
+      }
+    } ]
+  },
+  "b48b2b2ea8ad8b69ad928f83d7e95cd9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b98e4ed8743e9e69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100900797,
+        "stop" : 1565100906976,
+        "duration" : 6179
+      }
+    } ]
+  },
+  "5106cd3a0efcabee50adadace5938fe8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e03b4f4e2a948fe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100868674,
+        "stop" : 1565100882393,
+        "duration" : 13719
+      }
+    } ]
+  },
+  "e7533c471c915fc793b08f5f62342e5d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86918429202bb086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100882409,
+        "stop" : 1565100888134,
+        "duration" : 5725
+      }
+    } ]
+  },
+  "15f1871664cc87c3104245bb0f69e07e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aeda08be22473056",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 百度新闻的值不在hao123_上网从这里开始中",
+      "time" : {
+        "start" : 1565100918186,
+        "stop" : 1565100926168,
+        "duration" : 7982
+      }
+    } ]
+  },
+  "1255346441bbd7975a411804cc809f0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d067be4053973ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100963233,
+        "stop" : 1565100963238,
+        "duration" : 5
+      }
+    } ]
+  },
+  "d016a54a5c657362aad2814a869c4445" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8774158915227f4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100888141,
+        "stop" : 1565100893925,
+        "duration" : 5784
+      }
+    } ]
+  },
+  "271d48f804bf18b72987974a4306703" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f5510556e8aee56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100959592,
+        "stop" : 1565100963229,
+        "duration" : 3637
+      }
+    } ]
+  },
+  "b918f37661f1d63eba3a636d465f3060" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ff139cc54ce6a76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100951036,
+        "stop" : 1565100959592,
+        "duration" : 8556
+      }
+    } ]
+  },
+  "b9e81ca5ac7aba2f780fc1cd988fabae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52c8cd99debb330",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100934819,
+        "stop" : 1565100951031,
+        "duration" : 16212
+      }
+    } ]
+  },
+  "1b371aec18d98e5d0f793fe42f6c0498" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a09fb5e283c25b05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100913045,
+        "stop" : 1565100918180,
+        "duration" : 5135
+      }
+    } ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "9ff139cc54ce6a76",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_tieba",
+  "fullName" : "WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_tieba",
+  "historyId" : "b918f37661f1d63eba3a636d465f3060",
+  "time" : {
+    "start" : 1565100951036,
+    "stop" : 1565100959592,
+    "duration" : 8556
+  },
+  "description" : "\n        验证贴吧链接\n        ",
+  "descriptionHtml" : "<pre><code>    验证贴吧链接\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "检查超链接"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-49A99MM"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "story",
+    "value" : "贴吧链接"
+  }, {
+    "name" : "thread",
+    "value" : "6968-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testClass",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_baidu_home_page.Test_Home_Page.test_enter_tieba"
+  }, {
+    "name" : "package",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ff139cc54ce6a76.json",
+  "parameterValues" : [ ]
+}

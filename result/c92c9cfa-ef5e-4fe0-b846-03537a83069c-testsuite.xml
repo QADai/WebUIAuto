@@ -1,0 +1,310 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1565100868674" stop="1565100963238">
+  <name>WebUIAuto.src.testset</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1565100868674" status="passed" stop="1565100882393">
+      <description>
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_search[good-\u6d4b\u8bd5\u5c0f\u5199\u82f1\u6587\u5b57\u7b26good]</name>
+      <attachments>
+        <attachment source="04bc66d1-cd22-40fb-8840-638e1ed11a35-attachment.txt" title="用例参数" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="查询功能"/>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="对不同关键词进行搜索"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100882409" status="passed" stop="1565100888134">
+      <description>
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_search[BAD-\u6d4b\u8bd5\u5927\u5199\u82f1\u6587\u5b57\u7b26BAD]</name>
+      <attachments>
+        <attachment source="d076c241-06e1-4c0c-9a0c-de1664684115-attachment.txt" title="用例参数" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="查询功能"/>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="对不同关键词进行搜索"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100888141" status="passed" stop="1565100893925">
+      <description>
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_search[\u4e2d\u56fd-\u6d4b\u8bd5\u4e2d\u6587\u5b57\u7b26]</name>
+      <attachments>
+        <attachment source="43535f8d-8b5c-4bc0-bb33-c1afbf452b0f-attachment.txt" title="用例参数" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="查询功能"/>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="对不同关键词进行搜索"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100893939" status="passed" stop="1565100900791">
+      <description>
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_search[\u6280\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u672f\u6280\u672f-\u6d4b\u8bd5\u8f83\u957f\u7684\u82f1\u6587\u5b57\u7b26]</name>
+      <attachments>
+        <attachment source="fbc794d0-68d4-4e1d-8216-690d18a52d99-attachment.txt" title="用例参数" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="查询功能"/>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="对不同关键词进行搜索"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100900797" status="passed" stop="1565100906976">
+      <description>
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_search[\u536b\u58eb\u901awestone-\u6d4b\u8bd5\u4e2d\u82f1\u6587\u6df7\u6742]</name>
+      <attachments>
+        <attachment source="973b1eb6-7951-4989-9b82-b9f1132884c6-attachment.txt" title="用例参数" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="查询功能"/>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="对不同关键词进行搜索"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100906983" status="passed" stop="1565100913039">
+      <description>
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_search[\u4e2d\u56fd\u7f51\u5b89123456-\u6d4b\u8bd5\u4e2d\u6587\u548c\u6570\u5b57\u6df7\u6742]</name>
+      <attachments>
+        <attachment source="510df2c1-829b-499e-aee6-7e7f6282f317-attachment.txt" title="用例参数" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="查询功能"/>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="对不同关键词进行搜索"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100913045" status="passed" stop="1565100918180">
+      <description>
+        验证新闻连接
+        </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_enter_news</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="检查超链接"/>
+        <label name="severity" value="Critical"/>
+        <label name="story" value="新闻连接"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100918186" status="failed" stop="1565100926168">
+      <description>
+        验证hao123连接
+        </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_enter_hao123</name>
+      <failure>
+        <message>AssertionError: 百度新闻的值不在hao123_上网从这里开始中</message>
+        <stack-trace>self = &lt;WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page object at 0x000000DEAC0FDC50&gt;, open_home_page = None
+
+    @allure.feature('检查超链接')
+    @allure.story('hao123连接')
+    @allure.severity("Critical")
+    def test_enter_hao123(self, open_home_page):
+        """
+        验证hao123连接
+        """
+        self.HP.open_link_hao123()
+        title_text = self.HP.title()
+    
+        screen_shot_path = img_path()
+&gt;       Assert.contain("百度新闻", title_text, screen_shot_path, self.HP.browser)
+
+..\sw\P_prj\2019\WebAuto\src\testset\test_baidu_home_page.py:79: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+src\utils\define_assert.py:57: in contain
+    raise msg
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+cls = &lt;class 'src.utils.define_assert.Assert'&gt;, actual_value = '百度新闻', expected_list = 'hao123_上网从这里开始'
+img_path = '.\\screenshot\\Assure_Failed_2019-08-06_22_15_25.png'
+browser_instance = &lt;src.base.browser.SeleniumDriver object at 0x000000DEABED2DD8&gt;
+
+    @classmethod
+    def contain(cls, actual_value, expected_list, img_path, browser_instance):
+        try:
+&gt;           assert actual_value in expected_list,"{0}的值不在{1}中".format(actual_value, expected_list)
+E           AssertionError: 百度新闻的值不在hao123_上网从这里开始中
+
+src\utils\define_assert.py:52: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="3b3afd55-5dae-4855-b1f7-ac8d893718ed-attachment.png" title="失败截图" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="检查超链接"/>
+        <label name="severity" value="Critical"/>
+        <label name="story" value="hao123连接"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100926175" status="failed" stop="1565100934807">
+      <description>
+        验证地图链接
+        </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_enter_map</name>
+      <failure>
+        <message>AssertionError: 百度地图1的值不在百度地图中</message>
+        <stack-trace>self = &lt;WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page object at 0x000000DEAC103940&gt;, open_home_page = None
+
+    @allure.feature('检查超链接')
+    @allure.story('地图链接')
+    @allure.severity("Critical")
+    def test_enter_map(self, open_home_page):
+        """
+        验证地图链接
+        """
+        self.HP.open_link_map()
+        title_text = self.HP.title()
+    
+        screen_shot_path = img_path()
+&gt;       Assert.contain("百度地图1", title_text, screen_shot_path, self.HP.browser)
+
+..\sw\P_prj\2019\WebAuto\src\testset\test_baidu_home_page.py:94: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+src\utils\define_assert.py:57: in contain
+    raise msg
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+cls = &lt;class 'src.utils.define_assert.Assert'&gt;, actual_value = '百度地图1', expected_list = '百度地图'
+img_path = '.\\screenshot\\Assure_Failed_2019-08-06_22_15_33.png'
+browser_instance = &lt;src.base.browser.SeleniumDriver object at 0x000000DEABED2DD8&gt;
+
+    @classmethod
+    def contain(cls, actual_value, expected_list, img_path, browser_instance):
+        try:
+&gt;           assert actual_value in expected_list,"{0}的值不在{1}中".format(actual_value, expected_list)
+E           AssertionError: 百度地图1的值不在百度地图中
+
+src\utils\define_assert.py:52: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="ce890a45-3cf8-449b-99be-42642a0be608-attachment.png" title="失败截图" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="检查超链接"/>
+        <label name="severity" value="Critical"/>
+        <label name="story" value="地图链接"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100934819" status="passed" stop="1565100951031">
+      <description>
+        验证视频链接
+        </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_enter_video</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="检查超链接"/>
+        <label name="severity" value="Critical"/>
+        <label name="story" value="视频链接"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100951036" status="passed" stop="1565100959592">
+      <description>
+        验证贴吧链接
+        </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_enter_tieba</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="检查超链接"/>
+        <label name="severity" value="Critical"/>
+        <label name="story" value="贴吧链接"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100959592" status="passed" stop="1565100963229">
+      <description>
+        验证学术链接
+        </description>
+      <name>test_baidu_home_page.Test_Home_Page.test_enter_academic</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="检查超链接"/>
+        <label name="severity" value="Critical"/>
+        <label name="story" value="学术链接"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1565100963233" status="passed" stop="1565100963238">
+      <name>test_baidu_home_page.Test_Home_Page.test_open_settings</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="页面设置"/>
+        <label name="severity" value="Normal"/>
+        <label name="story" value="负向查询功能"/>
+        <label name="thread" value="6968-MainThread"/>
+        <label name="host" value="DESKTOP-49A99MM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

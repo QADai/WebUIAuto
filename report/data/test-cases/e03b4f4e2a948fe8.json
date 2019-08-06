@@ -1,0 +1,82 @@
+{
+  "uid" : "e03b4f4e2a948fe8",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[good-\\u6d4b\\u8bd5\\u5c0f\\u5199\\u82f1\\u6587\\u5b57\\u7b26good]",
+  "fullName" : "WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[good-\\u6d4b\\u8bd5\\u5c0f\\u5199\\u82f1\\u6587\\u5b57\\u7b26good]",
+  "historyId" : "5106cd3a0efcabee50adadace5938fe8",
+  "time" : {
+    "start" : 1565100868674,
+    "stop" : 1565100882393,
+    "duration" : 13719
+  },
+  "description" : "\n       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串\n       ",
+  "descriptionHtml" : "<pre><code>   从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "896b8f9115c4a89f",
+      "name" : "用例参数",
+      "source" : "896b8f9115c4a89f.txt",
+      "type" : "text/plain",
+      "size" : 162
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "查询功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-49A99MM"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "对不同关键词进行搜索"
+  }, {
+    "name" : "thread",
+    "value" : "6968-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testClass",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_baidu_home_page.Test_Home_Page.test_search[good-\\u6d4b\\u8bd5\\u5c0f\\u5199\\u82f1\\u6587\\u5b57\\u7b26good]"
+  }, {
+    "name" : "package",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e03b4f4e2a948fe8.json",
+  "parameterValues" : [ ]
+}

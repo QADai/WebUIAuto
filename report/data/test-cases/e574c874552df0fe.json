@@ -1,0 +1,82 @@
+{
+  "uid" : "e574c874552df0fe",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd\\u7f51\\u5b89123456-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u548c\\u6570\\u5b57\\u6df7\\u6742]",
+  "fullName" : "WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd\\u7f51\\u5b89123456-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u548c\\u6570\\u5b57\\u6df7\\u6742]",
+  "historyId" : "429aa74bd108af56dc623f6144adb773",
+  "time" : {
+    "start" : 1565100906983,
+    "stop" : 1565100913039,
+    "duration" : 6056
+  },
+  "description" : "\n       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串\n       ",
+  "descriptionHtml" : "<pre><code>   从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7e2793b8fed9ecee",
+      "name" : "用例参数",
+      "source" : "7e2793b8fed9ecee.txt",
+      "type" : "text/plain",
+      "size" : 175
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "查询功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-49A99MM"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "对不同关键词进行搜索"
+  }, {
+    "name" : "thread",
+    "value" : "6968-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testClass",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd\\u7f51\\u5b89123456-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u548c\\u6570\\u5b57\\u6df7\\u6742]"
+  }, {
+    "name" : "package",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e574c874552df0fe.json",
+  "parameterValues" : [ ]
+}

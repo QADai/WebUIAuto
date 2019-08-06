@@ -1,0 +1,61 @@
+[2019-08-06 22:14:28.580161] [INFO] [data_resources.py] [get_search_data] [16] 读取excel的数据
+[2019-08-06 22:14:28.673918] [INFO] [test_baidu_home_page.py] [setup_class] [20] 类 ---> 启动浏览器
+[2019-08-06 22:14:33.748473] [INFO] [browser_engine.py] [get_webdriver_instance] [62] Driver is set as for browser "chrome". Headless is False
+[2019-08-06 22:14:36.208031] [INFO] [browser.py] [open] [83] Open page with url https://www.baidu.com/
+[2019-08-06 22:14:36.247138] [INFO] [browser.py] [element_get] [102] Element Found with locator: kw locator_type id
+[2019-08-06 22:14:36.649827] [INFO] [browser.py] [element_send_keys] [223] Send data on element with locator: kw locator_type: id
+[2019-08-06 22:14:37.996104] [INFO] [browser.py] [element_get] [102] Element Found with locator: su locator_type id
+[2019-08-06 22:14:38.375356] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: su locator_type: id
+[2019-08-06 22:14:42.392952] [INFO] [browser.py] [get_title] [431] Current title is :: good_百度搜索
+[2019-08-06 22:14:42.439828] [INFO] [browser.py] [element_get] [102] Element Found with locator: kw locator_type id
+[2019-08-06 22:14:42.961121] [INFO] [browser.py] [element_send_keys] [223] Send data on element with locator: kw locator_type: id
+[2019-08-06 22:14:43.979439] [INFO] [browser.py] [element_get] [102] Element Found with locator: su locator_type id
+[2019-08-06 22:14:44.105530] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: su locator_type: id
+[2019-08-06 22:14:48.130612] [INFO] [browser.py] [get_title] [431] Current title is :: BAD_百度搜索
+[2019-08-06 22:14:48.171642] [INFO] [browser.py] [element_get] [102] Element Found with locator: kw locator_type id
+[2019-08-06 22:14:48.695094] [INFO] [browser.py] [element_send_keys] [223] Send data on element with locator: kw locator_type: id
+[2019-08-06 22:14:49.750251] [INFO] [browser.py] [element_get] [102] Element Found with locator: su locator_type id
+[2019-08-06 22:14:49.905354] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: su locator_type: id
+[2019-08-06 22:14:53.921853] [INFO] [browser.py] [get_title] [431] Current title is :: 中国_百度搜索
+[2019-08-06 22:14:53.968881] [INFO] [browser.py] [element_get] [102] Element Found with locator: kw locator_type id
+[2019-08-06 22:14:55.584888] [INFO] [browser.py] [element_send_keys] [223] Send data on element with locator: kw locator_type: id
+[2019-08-06 22:14:56.611847] [INFO] [browser.py] [element_get] [102] Element Found with locator: su locator_type id
+[2019-08-06 22:14:56.766521] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: su locator_type: id
+[2019-08-06 22:15:00.785719] [INFO] [browser.py] [get_title] [431] Current title is :: 技技术技术技术技术技术技术技术技术技术技术技术技术技术技术术技术_百度搜索
+[2019-08-06 22:15:00.828747] [INFO] [browser.py] [element_get] [102] Element Found with locator: kw locator_type id
+[2019-08-06 22:15:01.731348] [INFO] [browser.py] [element_send_keys] [223] Send data on element with locator: kw locator_type: id
+[2019-08-06 22:15:02.770342] [INFO] [browser.py] [element_get] [102] Element Found with locator: su locator_type id
+[2019-08-06 22:15:02.946460] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: su locator_type: id
+[2019-08-06 22:15:06.972863] [INFO] [browser.py] [get_title] [431] Current title is :: 卫士通westone_百度搜索
+[2019-08-06 22:15:07.009882] [INFO] [browser.py] [element_get] [102] Element Found with locator: kw locator_type id
+[2019-08-06 22:15:07.850725] [INFO] [browser.py] [element_send_keys] [223] Send data on element with locator: kw locator_type: id
+[2019-08-06 22:15:08.874504] [INFO] [browser.py] [element_get] [102] Element Found with locator: su locator_type id
+[2019-08-06 22:15:09.016595] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: su locator_type: id
+[2019-08-06 22:15:13.035864] [INFO] [browser.py] [get_title] [431] Current title is :: 中国网安123456_百度搜索
+[2019-08-06 22:15:13.602242] [INFO] [browser.py] [open] [83] Open page with url https://www.baidu.com/
+[2019-08-06 22:15:13.639327] [INFO] [browser.py] [element_get] [102] Element Found with locator: 新闻 locator_type link
+[2019-08-06 22:15:16.155523] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: 新闻 locator_type: link
+[2019-08-06 22:15:18.175877] [INFO] [browser.py] [get_title] [431] Current title is :: 百度新闻——海量中文资讯平台
+[2019-08-06 22:15:19.631844] [INFO] [browser.py] [open] [83] Open page with url https://www.baidu.com/
+[2019-08-06 22:15:19.717153] [INFO] [browser.py] [element_get] [102] Element Found with locator: hao123 locator_type link
+[2019-08-06 22:15:23.319117] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: hao123 locator_type: link
+[2019-08-06 22:15:25.336642] [INFO] [browser.py] [get_title] [431] Current title is :: hao123_上网从这里开始
+[2019-08-06 22:15:27.332839] [INFO] [browser.py] [open] [83] Open page with url https://www.baidu.com/
+[2019-08-06 22:15:27.386935] [INFO] [browser.py] [element_get] [102] Element Found with locator: 地图 locator_type link
+[2019-08-06 22:15:31.909574] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: 地图 locator_type: link
+[2019-08-06 22:15:33.924746] [INFO] [browser.py] [get_title] [431] Current title is :: 百度地图
+[2019-08-06 22:15:35.390874] [INFO] [browser.py] [open] [83] Open page with url https://www.baidu.com/
+[2019-08-06 22:15:35.433960] [INFO] [browser.py] [element_get] [102] Element Found with locator: 视频 locator_type link
+[2019-08-06 22:15:48.997728] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: 视频 locator_type: link
+[2019-08-06 22:15:51.025077] [INFO] [browser.py] [get_title] [431] Current title is :: 百度视频——业界领先的中文视频搜索引擎之一
+[2019-08-06 22:15:53.379640] [INFO] [browser.py] [open] [83] Open page with url https://www.baidu.com/
+[2019-08-06 22:15:53.427803] [INFO] [browser.py] [element_get] [102] Element Found with locator: 贴吧 locator_type link
+[2019-08-06 22:15:57.563365] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: 贴吧 locator_type: link
+[2019-08-06 22:15:59.591781] [INFO] [browser.py] [get_title] [431] Current title is :: 百度贴吧——全球最大的中文社区
+[2019-08-06 22:16:00.031349] [INFO] [browser.py] [open] [83] Open page with url https://www.baidu.com/
+[2019-08-06 22:16:00.091389] [INFO] [browser.py] [element_get] [102] Element Found with locator: 学术 locator_type link
+[2019-08-06 22:16:01.210135] [INFO] [browser.py] [element_click] [181] Clicked on element with locator: 学术 locator_type: link
+[2019-08-06 22:16:03.226869] [INFO] [browser.py] [get_title] [431] Current title is :: 百度学术 - 保持学习的态度
+[2019-08-06 22:16:03.235875] [INFO] [test_baidu_home_page.py] [test_open_settings] [146] log页面设置 
+[2019-08-06 22:16:03.239878] [INFO] [test_baidu_home_page.py] [teardown_class] [25] 类 ---> 退出浏览器
+[2019-08-06 22:16:06.439623] [INFO] [home_page.py] [quit_browser] [21] 退出webdriver

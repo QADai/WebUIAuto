@@ -1,0 +1,1 @@
+{'self': <WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page object at 0x000000DEAC0FD0F0>, 'key_word': '卫士通westone', 'TC_title': '测试中英文混杂'}

@@ -1,0 +1,1 @@
+{'self': <WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page object at 0x000000DEABEF2128>, 'key_word': 'BAD', 'TC_title': '测试大写英文字符BAD'}

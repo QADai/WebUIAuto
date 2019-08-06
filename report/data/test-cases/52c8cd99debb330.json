@@ -1,0 +1,66 @@
+{
+  "uid" : "52c8cd99debb330",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_video",
+  "fullName" : "WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_video",
+  "historyId" : "b9e81ca5ac7aba2f780fc1cd988fabae",
+  "time" : {
+    "start" : 1565100934819,
+    "stop" : 1565100951031,
+    "duration" : 16212
+  },
+  "description" : "\n        验证视频链接\n        ",
+  "descriptionHtml" : "<pre><code>    验证视频链接\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "检查超链接"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-49A99MM"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "story",
+    "value" : "视频链接"
+  }, {
+    "name" : "thread",
+    "value" : "6968-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testClass",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_baidu_home_page.Test_Home_Page.test_enter_video"
+  }, {
+    "name" : "package",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52c8cd99debb330.json",
+  "parameterValues" : [ ]
+}

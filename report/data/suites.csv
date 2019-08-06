@@ -1,0 +1,38 @@
+"Status","Name","Duration in ms","Description"
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[\u536b\u58eb\u901awestone-\u6d4b\u8bd5\u4e2d\u82f1\u6587\u6df7\u6742]","6179","
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_academic","3637","
+        验证学术链接
+        "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[\u4e2d\u56fd\u7f51\u5b89123456-\u6d4b\u8bd5\u4e2d\u6587\u548c\u6570\u5b57\u6df7\u6742]","6056","
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       "
+"failed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_map","8632","
+        验证地图链接
+        "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_video","16212","
+        验证视频链接
+        "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_tieba","8556","
+        验证贴吧链接
+        "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[good-\u6d4b\u8bd5\u5c0f\u5199\u82f1\u6587\u5b57\u7b26good]","13719","
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[\u6280\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u6280\u672f\u672f\u6280\u672f-\u6d4b\u8bd5\u8f83\u957f\u7684\u82f1\u6587\u5b57\u7b26]","6852","
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_news","5135","
+        验证新闻连接
+        "
+"failed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_hao123","7982","
+        验证hao123连接
+        "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[\u4e2d\u56fd-\u6d4b\u8bd5\u4e2d\u6587\u5b57\u7b26]","5784","
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       "
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_open_settings","5",""
+"passed","WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[BAD-\u6d4b\u8bd5\u5927\u5199\u82f1\u6587\u5b57\u7b26BAD]","5725","
+       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串
+       "

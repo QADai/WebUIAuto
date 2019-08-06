@@ -1,0 +1,131 @@
+[ {
+  "uid" : "e03b4f4e2a948fe8",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[good-\\u6d4b\\u8bd5\\u5c0f\\u5199\\u82f1\\u6587\\u5b57\\u7b26good]",
+  "time" : {
+    "start" : 1565100868674,
+    "stop" : 1565100882393,
+    "duration" : 13719
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "8774158915227f4c",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u5b57\\u7b26]",
+  "time" : {
+    "start" : 1565100888141,
+    "stop" : 1565100893925,
+    "duration" : 5784
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "a09fb5e283c25b05",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_news",
+  "time" : {
+    "start" : 1565100913045,
+    "stop" : 1565100918180,
+    "duration" : 5135
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b98e4ed8743e9e69",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u536b\\u58eb\\u901awestone-\\u6d4b\\u8bd5\\u4e2d\\u82f1\\u6587\\u6df7\\u6742]",
+  "time" : {
+    "start" : 1565100900797,
+    "stop" : 1565100906976,
+    "duration" : 6179
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "72859bd00fdaf9ea",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u6280\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u672f\\u6280\\u672f-\\u6d4b\\u8bd5\\u8f83\\u957f\\u7684\\u82f1\\u6587\\u5b57\\u7b26]",
+  "time" : {
+    "start" : 1565100893939,
+    "stop" : 1565100900791,
+    "duration" : 6852
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "52c8cd99debb330",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_video",
+  "time" : {
+    "start" : 1565100934819,
+    "stop" : 1565100951031,
+    "duration" : 16212
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9ff139cc54ce6a76",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_tieba",
+  "time" : {
+    "start" : 1565100951036,
+    "stop" : 1565100959592,
+    "duration" : 8556
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "86918429202bb086",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[BAD-\\u6d4b\\u8bd5\\u5927\\u5199\\u82f1\\u6587\\u5b57\\u7b26BAD]",
+  "time" : {
+    "start" : 1565100882409,
+    "stop" : 1565100888134,
+    "duration" : 5725
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "e574c874552df0fe",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd\\u7f51\\u5b89123456-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u548c\\u6570\\u5b57\\u6df7\\u6742]",
+  "time" : {
+    "start" : 1565100906983,
+    "stop" : 1565100913039,
+    "duration" : 6056
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9f5510556e8aee56",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_academic",
+  "time" : {
+    "start" : 1565100959592,
+    "stop" : 1565100963229,
+    "duration" : 3637
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "965d468f80a4384b",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_map",
+  "time" : {
+    "start" : 1565100926175,
+    "stop" : 1565100934807,
+    "duration" : 8632
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "aeda08be22473056",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_hao123",
+  "time" : {
+    "start" : 1565100918186,
+    "stop" : 1565100926168,
+    "duration" : 7982
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "3d067be4053973ee",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_open_settings",
+  "time" : {
+    "start" : 1565100963233,
+    "stop" : 1565100963238,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

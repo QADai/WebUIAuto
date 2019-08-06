@@ -1,0 +1,205 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "查询功能",
+    "children" : [ {
+      "name" : "对不同关键词进行搜索",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_search[good-\\u6d4b\\u8bd5\\u5c0f\\u5199\\u82f1\\u6587\\u5b57\\u7b26good]",
+        "uid" : "e03b4f4e2a948fe8",
+        "parentUid" : "80c89840f6ff4b44463864fcbde2f380",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100868674,
+          "stop" : 1565100882393,
+          "duration" : 13719
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_search[BAD-\\u6d4b\\u8bd5\\u5927\\u5199\\u82f1\\u6587\\u5b57\\u7b26BAD]",
+        "uid" : "86918429202bb086",
+        "parentUid" : "80c89840f6ff4b44463864fcbde2f380",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100882409,
+          "stop" : 1565100888134,
+          "duration" : 5725
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u5b57\\u7b26]",
+        "uid" : "8774158915227f4c",
+        "parentUid" : "80c89840f6ff4b44463864fcbde2f380",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100888141,
+          "stop" : 1565100893925,
+          "duration" : 5784
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u6280\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u672f\\u6280\\u672f-\\u6d4b\\u8bd5\\u8f83\\u957f\\u7684\\u82f1\\u6587\\u5b57\\u7b26]",
+        "uid" : "72859bd00fdaf9ea",
+        "parentUid" : "80c89840f6ff4b44463864fcbde2f380",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100893939,
+          "stop" : 1565100900791,
+          "duration" : 6852
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u536b\\u58eb\\u901awestone-\\u6d4b\\u8bd5\\u4e2d\\u82f1\\u6587\\u6df7\\u6742]",
+        "uid" : "b98e4ed8743e9e69",
+        "parentUid" : "80c89840f6ff4b44463864fcbde2f380",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100900797,
+          "stop" : 1565100906976,
+          "duration" : 6179
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd\\u7f51\\u5b89123456-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u548c\\u6570\\u5b57\\u6df7\\u6742]",
+        "uid" : "e574c874552df0fe",
+        "parentUid" : "80c89840f6ff4b44463864fcbde2f380",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100906983,
+          "stop" : 1565100913039,
+          "duration" : 6056
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "80c89840f6ff4b44463864fcbde2f380"
+    } ],
+    "uid" : "4aa774836ccd28c599e3485dfe637a3e"
+  }, {
+    "name" : "检查超链接",
+    "children" : [ {
+      "name" : "新闻连接",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_enter_news",
+        "uid" : "a09fb5e283c25b05",
+        "parentUid" : "6780696a52a2ef47301e681d550b8272",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100913045,
+          "stop" : 1565100918180,
+          "duration" : 5135
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6780696a52a2ef47301e681d550b8272"
+    }, {
+      "name" : "hao123连接",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_enter_hao123",
+        "uid" : "aeda08be22473056",
+        "parentUid" : "d1ff1f082ff400fd09e5da14b32dec9e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565100918186,
+          "stop" : 1565100926168,
+          "duration" : 7982
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d1ff1f082ff400fd09e5da14b32dec9e"
+    }, {
+      "name" : "地图链接",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_enter_map",
+        "uid" : "965d468f80a4384b",
+        "parentUid" : "533e1c7d8f67ec7fed1a9a242ad66775",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565100926175,
+          "stop" : 1565100934807,
+          "duration" : 8632
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "533e1c7d8f67ec7fed1a9a242ad66775"
+    }, {
+      "name" : "视频链接",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_enter_video",
+        "uid" : "52c8cd99debb330",
+        "parentUid" : "de36b6b2b282eac4002887408b74bf27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100934819,
+          "stop" : 1565100951031,
+          "duration" : 16212
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de36b6b2b282eac4002887408b74bf27"
+    }, {
+      "name" : "贴吧链接",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_enter_tieba",
+        "uid" : "9ff139cc54ce6a76",
+        "parentUid" : "9bd062f7904f820ab461e0200969f448",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100951036,
+          "stop" : 1565100959592,
+          "duration" : 8556
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9bd062f7904f820ab461e0200969f448"
+    }, {
+      "name" : "学术链接",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_enter_academic",
+        "uid" : "9f5510556e8aee56",
+        "parentUid" : "c961ad68ae584dd3d6fb6e3acc1ed977",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100959592,
+          "stop" : 1565100963229,
+          "duration" : 3637
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c961ad68ae584dd3d6fb6e3acc1ed977"
+    } ],
+    "uid" : "fb6857dc5315a91d821bddef101d139f"
+  }, {
+    "name" : "页面设置",
+    "children" : [ {
+      "name" : "负向查询功能",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_open_settings",
+        "uid" : "3d067be4053973ee",
+        "parentUid" : "72cf1fafaeaa0d33696a8e8cb764f242",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565100963233,
+          "stop" : 1565100963238,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72cf1fafaeaa0d33696a8e8cb764f242"
+    } ],
+    "uid" : "dd57985520a9ed6a55d41b1717025f06"
+  } ]
+}

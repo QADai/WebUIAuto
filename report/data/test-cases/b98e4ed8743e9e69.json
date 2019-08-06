@@ -1,0 +1,82 @@
+{
+  "uid" : "b98e4ed8743e9e69",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u536b\\u58eb\\u901awestone-\\u6d4b\\u8bd5\\u4e2d\\u82f1\\u6587\\u6df7\\u6742]",
+  "fullName" : "WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_search[\\u536b\\u58eb\\u901awestone-\\u6d4b\\u8bd5\\u4e2d\\u82f1\\u6587\\u6df7\\u6742]",
+  "historyId" : "b48b2b2ea8ad8b69ad928f83d7e95cd9",
+  "time" : {
+    "start" : 1565100900797,
+    "stop" : 1565100906976,
+    "duration" : 6179
+  },
+  "description" : "\n       从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串\n       ",
+  "descriptionHtml" : "<pre><code>   从excel表格中提取搜索的关键词，搜索并且坚持标题中是否包含相应的字符串\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3cae476fe8b2c8ee",
+      "name" : "用例参数",
+      "source" : "3cae476fe8b2c8ee.txt",
+      "type" : "text/plain",
+      "size" : 167
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "查询功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-49A99MM"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "对不同关键词进行搜索"
+  }, {
+    "name" : "thread",
+    "value" : "6968-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testClass",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_baidu_home_page.Test_Home_Page.test_search[\\u536b\\u58eb\\u901awestone-\\u6d4b\\u8bd5\\u4e2d\\u82f1\\u6587\\u6df7\\u6742]"
+  }, {
+    "name" : "package",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b98e4ed8743e9e69.json",
+  "parameterValues" : [ ]
+}

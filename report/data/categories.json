@@ -1,0 +1,41 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: 百度新闻的值不在hao123_上网从这里开始中",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_enter_hao123",
+        "uid" : "aeda08be22473056",
+        "parentUid" : "afac31a4f72e0aa691cd48cd9585742a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565100918186,
+          "stop" : 1565100926168,
+          "duration" : 7982
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "afac31a4f72e0aa691cd48cd9585742a"
+    }, {
+      "name" : "AssertionError: 百度地图1的值不在百度地图中",
+      "children" : [ {
+        "name" : "test_baidu_home_page.Test_Home_Page.test_enter_map",
+        "uid" : "965d468f80a4384b",
+        "parentUid" : "acea22a3a1493004303f9c173613c377",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565100926175,
+          "stop" : 1565100934807,
+          "duration" : 8632
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "acea22a3a1493004303f9c173613c377"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

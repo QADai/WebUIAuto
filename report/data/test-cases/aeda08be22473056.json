@@ -1,0 +1,90 @@
+{
+  "uid" : "aeda08be22473056",
+  "name" : "test_baidu_home_page.Test_Home_Page.test_enter_hao123",
+  "fullName" : "WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page.test_enter_hao123",
+  "historyId" : "15f1871664cc87c3104245bb0f69e07e",
+  "time" : {
+    "start" : 1565100918186,
+    "stop" : 1565100926168,
+    "duration" : 7982
+  },
+  "description" : "\n        验证hao123连接\n        ",
+  "descriptionHtml" : "<pre><code>    验证hao123连接\n</code></pre>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: 百度新闻的值不在hao123_上网从这里开始中",
+  "statusTrace" : "self = <WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page object at 0x000000DEAC0FDC50>, open_home_page = None\n\n    @allure.feature('检查超链接')\n    @allure.story('hao123连接')\n    @allure.severity(\"Critical\")\n    def test_enter_hao123(self, open_home_page):\n        \"\"\"\n        验证hao123连接\n        \"\"\"\n        self.HP.open_link_hao123()\n        title_text = self.HP.title()\n    \n        screen_shot_path = img_path()\n>       Assert.contain(\"百度新闻\", title_text, screen_shot_path, self.HP.browser)\n\n..\\sw\\P_prj\\2019\\WebAuto\\src\\testset\\test_baidu_home_page.py:79: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nsrc\\utils\\define_assert.py:57: in contain\n    raise msg\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\ncls = <class 'src.utils.define_assert.Assert'>, actual_value = '百度新闻', expected_list = 'hao123_上网从这里开始'\nimg_path = '.\\\\screenshot\\\\Assure_Failed_2019-08-06_22_15_25.png'\nbrowser_instance = <src.base.browser.SeleniumDriver object at 0x000000DEABED2DD8>\n\n    @classmethod\n    def contain(cls, actual_value, expected_list, img_path, browser_instance):\n        try:\n>           assert actual_value in expected_list,\"{0}的值不在{1}中\".format(actual_value, expected_list)\nE           AssertionError: 百度新闻的值不在hao123_上网从这里开始中\n\nsrc\\utils\\define_assert.py:52: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: 百度新闻的值不在hao123_上网从这里开始中",
+    "statusTrace" : "self = <WebUIAuto.src.testset.test_baidu_home_page.Test_Home_Page object at 0x000000DEAC0FDC50>, open_home_page = None\n\n    @allure.feature('检查超链接')\n    @allure.story('hao123连接')\n    @allure.severity(\"Critical\")\n    def test_enter_hao123(self, open_home_page):\n        \"\"\"\n        验证hao123连接\n        \"\"\"\n        self.HP.open_link_hao123()\n        title_text = self.HP.title()\n    \n        screen_shot_path = img_path()\n>       Assert.contain(\"百度新闻\", title_text, screen_shot_path, self.HP.browser)\n\n..\\sw\\P_prj\\2019\\WebAuto\\src\\testset\\test_baidu_home_page.py:79: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nsrc\\utils\\define_assert.py:57: in contain\n    raise msg\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\ncls = <class 'src.utils.define_assert.Assert'>, actual_value = '百度新闻', expected_list = 'hao123_上网从这里开始'\nimg_path = '.\\\\screenshot\\\\Assure_Failed_2019-08-06_22_15_25.png'\nbrowser_instance = <src.base.browser.SeleniumDriver object at 0x000000DEABED2DD8>\n\n    @classmethod\n    def contain(cls, actual_value, expected_list, img_path, browser_instance):\n        try:\n>           assert actual_value in expected_list,\"{0}的值不在{1}中\".format(actual_value, expected_list)\nE           AssertionError: 百度新闻的值不在hao123_上网从这里开始中\n\nsrc\\utils\\define_assert.py:52: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b3257db244f8ab94",
+      "name" : "失败截图",
+      "source" : "b3257db244f8ab94.png",
+      "type" : "image/png",
+      "size" : 309358
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "检查超链接"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-49A99MM"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "story",
+    "value" : "hao123连接"
+  }, {
+    "name" : "thread",
+    "value" : "6968-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testClass",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_baidu_home_page.Test_Home_Page.test_enter_hao123"
+  }, {
+    "name" : "package",
+    "value" : "WebUIAuto.src.testset"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "aeda08be22473056.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,165 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "WebUIAuto.src.testset",
+    "children" : [ {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_search[good-\\u6d4b\\u8bd5\\u5c0f\\u5199\\u82f1\\u6587\\u5b57\\u7b26good]",
+      "uid" : "e03b4f4e2a948fe8",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100868674,
+        "stop" : 1565100882393,
+        "duration" : 13719
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_search[BAD-\\u6d4b\\u8bd5\\u5927\\u5199\\u82f1\\u6587\\u5b57\\u7b26BAD]",
+      "uid" : "86918429202bb086",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100882409,
+        "stop" : 1565100888134,
+        "duration" : 5725
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u5b57\\u7b26]",
+      "uid" : "8774158915227f4c",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100888141,
+        "stop" : 1565100893925,
+        "duration" : 5784
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u6280\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u6280\\u672f\\u672f\\u6280\\u672f-\\u6d4b\\u8bd5\\u8f83\\u957f\\u7684\\u82f1\\u6587\\u5b57\\u7b26]",
+      "uid" : "72859bd00fdaf9ea",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100893939,
+        "stop" : 1565100900791,
+        "duration" : 6852
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u536b\\u58eb\\u901awestone-\\u6d4b\\u8bd5\\u4e2d\\u82f1\\u6587\\u6df7\\u6742]",
+      "uid" : "b98e4ed8743e9e69",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100900797,
+        "stop" : 1565100906976,
+        "duration" : 6179
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_search[\\u4e2d\\u56fd\\u7f51\\u5b89123456-\\u6d4b\\u8bd5\\u4e2d\\u6587\\u548c\\u6570\\u5b57\\u6df7\\u6742]",
+      "uid" : "e574c874552df0fe",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100906983,
+        "stop" : 1565100913039,
+        "duration" : 6056
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_enter_news",
+      "uid" : "a09fb5e283c25b05",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100913045,
+        "stop" : 1565100918180,
+        "duration" : 5135
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_enter_hao123",
+      "uid" : "aeda08be22473056",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1565100918186,
+        "stop" : 1565100926168,
+        "duration" : 7982
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_enter_map",
+      "uid" : "965d468f80a4384b",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1565100926175,
+        "stop" : 1565100934807,
+        "duration" : 8632
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_enter_video",
+      "uid" : "52c8cd99debb330",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100934819,
+        "stop" : 1565100951031,
+        "duration" : 16212
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_enter_tieba",
+      "uid" : "9ff139cc54ce6a76",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100951036,
+        "stop" : 1565100959592,
+        "duration" : 8556
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_enter_academic",
+      "uid" : "9f5510556e8aee56",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100959592,
+        "stop" : 1565100963229,
+        "duration" : 3637
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu_home_page.Test_Home_Page.test_open_settings",
+      "uid" : "3d067be4053973ee",
+      "parentUid" : "74a85087720a9cb3ece25d13c6edce8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565100963233,
+        "stop" : 1565100963238,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "WebUIAuto.src.testset"
+  } ]
+}

@@ -1,10 +1,10 @@
-## Briefï¼š ##
-Using Selenium + pytest + Excel Data driver modeï¼Œfor webUI automation testing.
+## Brief£º ##
+Using Selenium + pytest + Excel Data driver mode£¬for webUI automation testing.
 
-#### folder infoï¼š ####
+#### folder info£º ####
 - configure: the python class, collect global vars using
-- logsï¼šsave log file with time stampï¼›
-- reportï¼šgenerate resport by allure with pytest result;
+- logs£ºsave log file with time stamp£»
+- report£ºgenerate resport by allure with pytest result;
 - result: get the result by pytest
 - screenshot: when test case run failed, will save screenshot here
 - testdata: use Excel file for test data

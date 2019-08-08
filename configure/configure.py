@@ -10,6 +10,7 @@ base_path = os.path.dirname(os.path.dirname(__file__))
 log_path =  os.path.join(base_path, "logs")
 screen_path = os.path.join(base_path, "screenshot")
 report_path = os.path.join(base_path, "report")
+result_path = os.path.join(base_path, "result")
 TC_path = os.path.join(base_path, "testdata")
 tools_path = os.path.join(base_path, "tools")
 

@@ -3,14 +3,16 @@
 @Author  : QADai
 @Email   : daibiao83@126.com
 """
-import os
-import pytest
-import subprocess
-from time import sleep
 from configure.configure import *
+from time import sleep
+import subprocess
+import pytest
+import os
+from src.utils.convert_code import *
 
 
 # 列表第一个参数为模块名称； 第二参数为测试类类名， 第三个参数为测试类中的函数, 暂时没有用到
+
 test_sets = [
     [
         ["test_baidu_home_page", True], ["Test_Home_Page", True], [
@@ -22,9 +24,10 @@ test_sets = [
         ["test_enter_tieba", True],
         ["test_enter_academic", True],
         ["test_open_settings", True]
-        ]
+    ]
     ]
 ]
+
 
 def make_up_test_sets():
     test_func_sets = list()
@@ -46,6 +49,9 @@ def main():
 
 def exec_test_run():
     subprocess.call(["pytest", "./src/testset", "--alluredir", "./result"])
+    sleep(1)
+    xml_file = get_xml_file(result_path)
+    modify_text(xml_file)
     sleep(1)
     os.system("allure generate ./result -o ./report --clean")
 

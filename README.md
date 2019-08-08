@@ -16,7 +16,7 @@ Using Selenium + pytest + Excel Data driver provider for webUI automation testin
 - testset: test scenoarios sets
 - utils:log, read excel capture screenshot, e.g.
 
-#### MORE ####,
+#### MORE ####
 base one specific project need do more
 Exception;
 more detail assertion;

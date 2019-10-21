@@ -71,6 +71,8 @@ class SeleniumDriver:
             return By.PARTIAL_LINK_TEXT
         elif locator_type == 'tag':
             return By.TAG_NAME
+        elif locator_type == 'text' or locator_type == 'partial_text':
+            return By.XPATH
         else:
             log.info("Locator type" + locator_type + " not correct/supported")
             return False
@@ -94,6 +96,10 @@ class SeleniumDriver:
         try:
             locator_type = locator_type.lower()
             by_type = self.get_by_type(locator_type)
+            if locator_type == 'text':
+                locator = '//*[text()="' + locator + '"]'
+            elif locator_type == 'partial_text':
+                locator = '//*[contains(text(),"' + locator + '"]'
             if element:
                 element = parent_element.find_element(by_type, locator)
                 log.info("child element is Found with locator: " + locator + " locator_type " + locator_type)
@@ -114,7 +120,12 @@ class SeleniumDriver:
         elements = None
         try:
             locator_type = locator_type.lower()
+            if locator_type == 'text':
+                locator = '//*[text()="' + locator + '"]'
+            elif locator_type == 'partial_text':
+                locator = '//*[contains(text(),"' + locator + '"]'
             by_type = self.get_by_type(locator_type)
+
             elements = self.driver.find_elements(by_type, locator)
             log.info("Elements Found")
         except:
@@ -140,6 +151,10 @@ class SeleniumDriver:
         else:
             try:
                 locator_type = locator_type.lower()
+                if locator_type == 'text':
+                    locator = '//*[text()="' + locator + '"]'
+                elif locator_type == 'partial_text':
+                    locator = '//*[contains(text(),"' + locator + '"]'
                 by_type = self.get_by_type(locator_type)
                 result = self.driver.find_element(by_type, locator)
                 name = result.get_attribute(attr_name)
@@ -157,6 +172,10 @@ class SeleniumDriver:
         """
         elements = {}
         try:
+            if locator_type == 'text':
+                locator = '//*[text()="' + locator + '"]'
+            elif locator_type == 'partial_text':
+                locator = '//*[contains(text(),"' + locator + '"]'
             by_type = self.get_by_type(locator_type.lower())
             elements = {element.get_attribute('href'): element for element in self.driver.find_elements(by_type, locator)}
         except:
@@ -252,6 +271,10 @@ class SeleniumDriver:
         :return: bool
         """
         try:
+            if locator_type == 'text':
+                locator = '//*[text()="' + locator + '"]'
+            elif locator_type == 'partial_text':
+                locator = '//*[contains(text(),"' + locator + '"]'
             element = self.element_wait_for(locator, locator_type)
             # element = self.element_get(locator, locator_type)
             if element is not None:
@@ -271,6 +294,10 @@ class SeleniumDriver:
         :return: bool
         """
         try:
+            if locator_type == 'text':
+                locator = '//*[text()="' + locator + '"]'
+            elif locator_type == 'partial_text':
+                locator = '//*[contains(text(),"' + locator + '"]'
             self.element_wait_for(locator, locator_type)
             elementList = self.elements_get(locator, locator_type)
             if len(elementList) > 0:
@@ -294,6 +321,10 @@ class SeleniumDriver:
         """
         element = None
         try:
+            if locator_type == 'text':
+                locator = '//*[text()="' + locator + '"]'
+            elif locator_type == 'partial_text':
+                locator = '//*[contains(text(),"' + locator + '"]'
             by_type = self.get_by_type(locator_type)
             log.info("Waiting for maximum :: " + str(timeout) +
                           " :: seconds for element to be clickable")
@@ -319,6 +350,10 @@ class SeleniumDriver:
         """
         element = None
         try:
+            if locator_type == 'text':
+                locator = '//*[text()="' + locator + '"]'
+            elif locator_type == 'partial_text':
+                locator = '//*[contains(text(),"' + locator + '"]'
             by_type = self.get_by_type(locator_type)
             log.info("Waiting for maximum :: " + str(timeout) +
                           " :: seconds for element to be clickable")
@@ -366,6 +401,10 @@ class SeleniumDriver:
         """
         element = None
         try:
+            if locator_type == 'text':
+                locator = '//*[text()="' + locator + '"]'
+            elif locator_type == 'partial_text':
+                locator = '//*[contains(text(),"' + locator + '"]'
             by_type = self.get_by_type(locator_type)
             log.info("Waiting for maximum :: " + str(timeout) +
                           " :: seconds for element to be clickable")
